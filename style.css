@@ -240,3 +240,82 @@ li::marker{
    color: white;
 }
 
+/* AI Generated Hackathon Challenge Section */
+
+.hackathon-section{
+    max-width: 1200px;
+    margin: 100px auto;
+    padding: 70px 40px;
+    text-align: center;
+    background: #F9FAFB;
+    border-radius: 20px;
+}
+
+.hackathon-section h2{
+    font-size: 42px;
+    color: #111827;
+    margin-bottom: 15px;
+}
+
+.hackathon-content{
+    max-width: 700px;
+    margin: 0 auto 50px;
+    color: #6B7280;
+    font-size: 18px;
+    line-height: 1.7;
+}
+
+.hackathon-container{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.hackathon-card{
+    flex: 1;
+    min-width: 280px;
+    background: #ffffff;
+    padding: 35px 25px;
+    border-radius: 16px;
+    border: 1px solid #E5E7EB;
+    transition: 0.3s;
+}
+
+.hackathon-card:hover{
+    transform: translateY(-8px);
+    box-shadow: 0 10px 25px rgba(0,0,0,.12);
+}
+
+.icon{
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+.hackathon-card h3{
+    font-size: 24px;
+    color: #111827;
+    margin-bottom: 15px;
+}
+
+.hackathon-card p{
+    color: #6B7280;
+    line-height: 1.7;
+    font-size: 16px;
+}
+
+.hackathon-btn{
+    margin-top: 50px;
+    padding: 15px 35px;
+    border: none;
+    border-radius: 10px;
+    background: #1D4ED8;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+    transition: .3s;
+}
+
+.hackathon-btn:hover{
+    background: #163db3;
+}
