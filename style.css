@@ -351,3 +351,8 @@ footer{
     margin-right: 20px;
     margin-top: 30px;
 }
+.privacy-porlicy a{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+}
