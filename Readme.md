@@ -1,1 +1,1 @@
-Create a modern and responsive "Hackathon Challenge" section for a DevConf 2026 conference landing page using only HTML and CSS.
+Create a modern and responsive Hackathon Challenge section for a DevConf 2026 conference landing page using only HTML and CSS.
